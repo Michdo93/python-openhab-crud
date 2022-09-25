@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: python-openhab-crud
-Version: 0.1.1
+Version: 1.0.0
 Summary: A simple CRUD for accessing the openHAB REST API. Whether via the cloud or locally.
 Home-page: https://github.com/Michdo93/python-openhab-crud
 Download-URL: https://github.com/Michdo93/python-openhab-crud
